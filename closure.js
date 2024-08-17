@@ -5,7 +5,7 @@
 */
 
 // v1
-/*
+
 function x(){
     var a = 7;
     function y(){
@@ -18,10 +18,10 @@ x();
 
 // o/p : 7
 
-*/
+
 
 // v2
-/*
+
 function x(){
     var a = 7;
     function y(){
@@ -34,7 +34,7 @@ var z = x();
 console.log(z);
 
 z();
-*/
+
 
 /*
 o/p :
@@ -45,7 +45,7 @@ function y(){
 */
 
 // v3
-/*
+
 function x(){
     var a = 7;
     function y(){
@@ -57,7 +57,7 @@ function x(){
 var z = x();
 console.log(z);
 z();
-*/
+
 
 /*
 o/p :
